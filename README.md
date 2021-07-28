@@ -12,7 +12,9 @@ c)Design doc link- https://docs.google.com/document/d/1_MS-n5uqsBxe1bGxIpY1_5wUy
 
 d)Drive link to the apk file of our build- https://drive.google.com/file/d/1GT9G8BTKLauyGrfFOgCvIMMMN5mMl3Qb/view?usp=drivesdk
 
-e)Work done by me in making the game includes programming and basic idea of game. The idea of the game and how the game should look like was put forward by me. I also worked on projectile though with adjusting power ,making the object follow the path,touch controls,helped in finding bugs and resolving them,finding audio for the game, making the laser tracer power up,provided the idea how the level should look, working with UI buttons,taking feedback and opinions from others in the testing phase.
+e)video of game- https://drive.google.com/file/d/11KZQMoV1orOsES4EMlep6qn_97mbR2HF/view?usp=sharing
+
+f)Work done by me in making the game includes programming and basic idea of game. The idea of the game and how the game should look like was put forward by me. I also worked on projectile though with adjusting power ,making the object follow the path,touch controls,helped in finding bugs and resolving them,finding audio for the game, making the laser tracer power up,provided the idea how the level should look, working with UI buttons,taking feedback and opinions from others in the testing phase.
 
 
 Territorial Attack Game, by team HawkEyes
